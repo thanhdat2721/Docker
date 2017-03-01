@@ -1,1 +1,1 @@
-ubuntu(dat/ubuntu/Dockerfile)
+ubuntu(dat/Dockerfile)
